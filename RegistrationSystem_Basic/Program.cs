@@ -48,10 +48,7 @@
         {
             Console.WriteLine("\n\nAll books in list:");
             Console.WriteLine($"Number Books: {_books.Count}");
-            foreach (string books in _books)
-            {
-                Console.WriteLine(books);
-            }
+            foreach (string books in _books) Console.WriteLine(books);
         }
 
         private static void RemoveBooks()
