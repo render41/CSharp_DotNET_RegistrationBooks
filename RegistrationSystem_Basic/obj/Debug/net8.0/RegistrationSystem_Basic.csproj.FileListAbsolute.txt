@@ -1,0 +1,14 @@
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/bin/Debug/net8.0/RegistrationSystem_Basic
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/bin/Debug/net8.0/RegistrationSystem_Basic.deps.json
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/bin/Debug/net8.0/RegistrationSystem_Basic.runtimeconfig.json
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/bin/Debug/net8.0/RegistrationSystem_Basic.dll
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/bin/Debug/net8.0/RegistrationSystem_Basic.pdb
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/obj/Debug/net8.0/RegistrationSystem_Basic.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/obj/Debug/net8.0/RegistrationSystem_Basic.AssemblyInfoInputs.cache
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/obj/Debug/net8.0/RegistrationSystem_Basic.AssemblyInfo.cs
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/obj/Debug/net8.0/RegistrationSystem_Basic.csproj.CoreCompileInputs.cache
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/obj/Debug/net8.0/RegistrationSystem_Basic.dll
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/obj/Debug/net8.0/refint/RegistrationSystem_Basic.dll
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/obj/Debug/net8.0/RegistrationSystem_Basic.pdb
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/obj/Debug/net8.0/RegistrationSystem_Basic.genruntimeconfig.cache
+/home/gabrieldev/Área de trabalho/projects/studys/csharp/RegistrationSystem_Basic/RegistrationSystem_Basic/obj/Debug/net8.0/ref/RegistrationSystem_Basic.dll
